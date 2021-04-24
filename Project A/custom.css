@@ -1,0 +1,103 @@
+.div1{
+    color: white;
+    text-align: center;
+    background-color: #272424;
+    padding: 2px;
+}
+#row1{
+    color: black;
+    padding: 10px;
+    height: 100px;
+}
+#col1{
+    padding: 50px;
+    text-align: left;
+}
+#col2{
+    padding: 5px;
+    text-align: center;
+}
+#span1{
+    font-size: 60px;
+    font-family: 'Shippori Mincho B1', serif;
+}
+#col3{
+    padding: 50px;
+    text-align: center;
+}
+#link1{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 2px;
+    font-size: 15px;
+}
+#link1:hover{
+    text-decoration: underline;
+}
+.div2{
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 100px;
+}
+#mic{
+    margin: 20px 50px;
+}
+#bg1{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/blazer-2590798_1920.jpg');
+    height: 600px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 40%;
+    padding-right: 300px;
+}
+#bg2{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/FB_IMG_1612541934150.jpg');
+    height: 300px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 10%;
+    padding-right: 300px;
+    background-size: cover;
+}
+#bg3{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/gadgets-336635_1920.jpg');
+    height: 600px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 80%;
+    padding-left: 300px;
+    background-size: cover;
+}
+#bg4{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/model-2911330_1920.jpg');
+    background-size: cover;
+    height: 300px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 30%;
+    padding-right: 300px;
+}
+#foot1{
+    background: #e9e6e6;
+    height: 200px;
+    padding: 50px;
+    color: black;
+}
+#foot2{
+    background: #746f6f ;
+    height: 200px;
+    padding: 50px;
+    color: whitesmoke;
+    text-align: center;
+}
+input{
+    height: 60px;
+    width: 300px;
+}
+#lastfoot{
+ 
+    background-color: #444244;
+    padding: 50px;
+    color: whitesmoke;
+}
